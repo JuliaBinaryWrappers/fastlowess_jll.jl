@@ -1,80 +1,80 @@
 [[fastlowess]]
 arch = "aarch64"
-git-tree-sha1 = "bfc73a8ab4ae80ee923e34b4b66ffe3c228f6597"
+git-tree-sha1 = "32c0cc29c9afc35ce2b07bce56f770aec18824b9"
 os = "macos"
 
     [[fastlowess.download]]
-    sha256 = "8a80a9ef3b39c22e7db09a782db1ef9c7b66619b2a4f13713a1e3dbb43314ac6"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "b12f45de1fb3d083de3fcee2e4a18f8d02e521d088cb3dc0c17d1774eb49fe64"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.aarch64-apple-darwin.tar.gz"
 [[fastlowess]]
 arch = "aarch64"
-git-tree-sha1 = "cd71e966d9b1f515c74a0f2170b46f7d787b6e71"
+git-tree-sha1 = "7e440a1fa36efc026e2ca447534733173bfd98a0"
 libc = "glibc"
 os = "linux"
 
     [[fastlowess.download]]
-    sha256 = "6e07fc9e5df474a2c130b746916d8233d05a2506861d851f74e1483e65ae26eb"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "74f20b8c07f962513bac1a39f428e331f41e53a7400595f3bacf42ee5db1e042"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.aarch64-linux-gnu.tar.gz"
 [[fastlowess]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "001a8a2dfbfac0a3dd72600a56f4885d77a14fa2"
+git-tree-sha1 = "0727d4ff96777960588c7dd885882562ff57fef6"
 libc = "glibc"
 os = "linux"
 
     [[fastlowess.download]]
-    sha256 = "455d30960e2e5cf84bfadee997de5806ceaa68b4dbe8f7dc21683eb5594d5efe"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "79e4f2245a75a6917b41dc205419756e5e45e97ef64e2d8a2b9e573641d6698d"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.armv6l-linux-gnueabihf.tar.gz"
 [[fastlowess]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4ac8a4ed9fc64e0daf8e3bac60e1cf5adeb36feb"
+git-tree-sha1 = "8a767d3983c89978ec4d3d16fe7e5b74d73fd8cb"
 libc = "glibc"
 os = "linux"
 
     [[fastlowess.download]]
-    sha256 = "946bedfa454f6ed5d8562fba203e6d15cd75639f4d983dc74daaa1f5d65ca9c6"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "c6d34e0b3664aab953872efeb2341271d53f7fcfac4d9197e6d9449bed91f7ba"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.armv7l-linux-gnueabihf.tar.gz"
 [[fastlowess]]
 arch = "i686"
-git-tree-sha1 = "ce107e8bbb750444b86a62b8c909252497434120"
+git-tree-sha1 = "a618823df91c91a309f1977195a32a109b89ff39"
 libc = "glibc"
 os = "linux"
 
     [[fastlowess.download]]
-    sha256 = "604d025f66bf3071626820c4208eb8f0def993e3899a1a39104b843d75f2e3d8"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "d9b76b38994391810f3a2bd9c6c4588aec029ac188d2f004858150c7285f4e81"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.i686-linux-gnu.tar.gz"
 [[fastlowess]]
 arch = "powerpc64le"
-git-tree-sha1 = "034d0d75f8f7320662ef699d0927acdedd40f390"
+git-tree-sha1 = "5b9add0a034db4feb95cebd5e02d19a4b382790b"
 libc = "glibc"
 os = "linux"
 
     [[fastlowess.download]]
-    sha256 = "c88fee3d38e474649396b342c57320661d4f0722d3c91492854ce33abfaa60fc"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "08fee9a3261e81964826d5c549422500ee06349ab2a1d6b6851a81d1d7a00387"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.powerpc64le-linux-gnu.tar.gz"
 [[fastlowess]]
 arch = "x86_64"
-git-tree-sha1 = "8051b23cb7ad56e04d15246c3c9bf730f9d1b43a"
+git-tree-sha1 = "55e176125dc95b92192e2f2c190d8c72080436db"
 os = "macos"
 
     [[fastlowess.download]]
-    sha256 = "1176f2ebd4f460dc69c96bc49e6a78e8094b05edfe66f441c04c173faa549b50"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "fbd83a7baa30fa439d8619a70979ec18500ab1c0d5856e8bb3e0406c5b7ff829"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.x86_64-apple-darwin.tar.gz"
 [[fastlowess]]
 arch = "x86_64"
-git-tree-sha1 = "2f4b7894445b901054d9c299fd499e6ee29d3c88"
+git-tree-sha1 = "257b6c010f2de487fb66c2909494d0efbe498cdf"
 libc = "glibc"
 os = "linux"
 
     [[fastlowess.download]]
-    sha256 = "0e1d0613a3820216db23b0dd4056c13a03af31af8729b909b7ad9416b9f98751"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "39362551a83d7c455e07f4aecd6cb4ab05c4e83ec258c9f997b57732a211fbc6"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.x86_64-linux-gnu.tar.gz"
 [[fastlowess]]
 arch = "x86_64"
-git-tree-sha1 = "dc2e99de14c59dbef0615f8e092ea45537313eae"
+git-tree-sha1 = "40ee569917de8bdd7bb91e90e68286653fab319e"
 os = "windows"
 
     [[fastlowess.download]]
-    sha256 = "3e4ebe542ca34ab36c1dd68950862695a5964e8f0f7d5d47b959803eb84a86eb"
-    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.1.0+0/fastlowess.v3.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "635c7a24b2289933af65c8efbc32b4481d2f34320910779f4ca38c5cdf30a02c"
+    url = "https://github.com/JuliaBinaryWrappers/fastlowess_jll.jl/releases/download/fastlowess-v3.2.0+0/fastlowess.v3.2.0.x86_64-w64-mingw32.tar.gz"
